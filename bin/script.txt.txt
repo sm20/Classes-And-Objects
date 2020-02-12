@@ -1,0 +1,272 @@
+
+[1]Create a Circle or Rectangle Object
+[2]Set the Origin Point for a Created Object
+[3]Set the Dimensions for any object
+[4]Display the Current State of the Object
+[5]Move an Object a Specified Distance
+[6]Compute and Display the Distance Between Any Two Objects
+[7]Destroy any Object
+[8]List the Current State for all Objects in the Array
+[9]Quit the Program
+1
+Press [1] to add a circle or [2] to add a rectangle or [3] to return to the main menu
+1
+1
+
+[1]Create a Circle or Rectangle Object
+[2]Set the Origin Point for a Created Object
+[3]Set the Dimensions for any object
+[4]Display the Current State of the Object
+[5]Move an Object a Specified Distance
+[6]Compute and Display the Distance Between Any Two Objects
+[7]Destroy any Object
+[8]List the Current State for all Objects in the Array
+[9]Quit the Program
+1
+Press [1] to add a circle or [2] to add a rectangle or [3] to return to the main menu
+2
+2
+
+[1]Create a Circle or Rectangle Object
+[2]Set the Origin Point for a Created Object
+[3]Set the Dimensions for any object
+[4]Display the Current State of the Object
+[5]Move an Object a Specified Distance
+[6]Compute and Display the Distance Between Any Two Objects
+[7]Destroy any Object
+[8]List the Current State for all Objects in the Array
+[9]Quit the Program
+1
+Press [1] to add a circle or [2] to add a rectangle or [3] to return to the main menu
+1
+1
+
+[1]Create a Circle or Rectangle Object
+[2]Set the Origin Point for a Created Object
+[3]Set the Dimensions for any object
+[4]Display the Current State of the Object
+[5]Move an Object a Specified Distance
+[6]Compute and Display the Distance Between Any Two Objects
+[7]Destroy any Object
+[8]List the Current State for all Objects in the Array
+[9]Quit the Program
+1
+Press [1] to add a circle or [2] to add a rectangle or [3] to return to the main menu
+3
+3
+
+[1]Create a Circle or Rectangle Object
+[2]Set the Origin Point for a Created Object
+[3]Set the Dimensions for any object
+[4]Display the Current State of the Object
+[5]Move an Object a Specified Distance
+[6]Compute and Display the Distance Between Any Two Objects
+[7]Destroy any Object
+[8]List the Current State for all Objects in the Array
+[9]Quit the Program
+2
+Select a Shape to set the origin for between 1-10
+1
+Enter a value to set the xCoordinate
+4
+Enter a value to set the yCoordinate
+4
+The origin for object 0 was set.
+[1]Create a Circle or Rectangle Object
+[2]Set the Origin Point for a Created Object
+[3]Set the Dimensions for any object
+[4]Display the Current State of the Object
+[5]Move an Object a Specified Distance
+[6]Compute and Display the Distance Between Any Two Objects
+[7]Destroy any Object
+[8]List the Current State for all Objects in the Array
+[9]Quit the Program
+1
+Press [1] to add a circle or [2] to add a rectangle or [3] to return to the main menu
+3
+3
+
+[1]Create a Circle or Rectangle Object
+[2]Set the Origin Point for a Created Object
+[3]Set the Dimensions for any object
+[4]Display the Current State of the Object
+[5]Move an Object a Specified Distance
+[6]Compute and Display the Distance Between Any Two Objects
+[7]Destroy any Object
+[8]List the Current State for all Objects in the Array
+[9]Quit the Program
+2
+Select a Shape to set the origin for between 1-10
+2
+Enter a value to set the xCoordinate
+3
+Enter a value to set the yCoordinate
+3
+The origin for object 1 was set.
+[1]Create a Circle or Rectangle Object
+[2]Set the Origin Point for a Created Object
+[3]Set the Dimensions for any object
+[4]Display the Current State of the Object
+[5]Move an Object a Specified Distance
+[6]Compute and Display the Distance Between Any Two Objects
+[7]Destroy any Object
+[8]List the Current State for all Objects in the Array
+[9]Quit the Program
+2
+Select a Shape to set the origin for between 1-10
+3
+Enter a value to set the xCoordinate
+3
+Enter a value to set the yCoordinate
+4
+The origin for object 2 was set.
+[1]Create a Circle or Rectangle Object
+[2]Set the Origin Point for a Created Object
+[3]Set the Dimensions for any object
+[4]Display the Current State of the Object
+[5]Move an Object a Specified Distance
+[6]Compute and Display the Distance Between Any Two Objects
+[7]Destroy any Object
+[8]List the Current State for all Objects in the Array
+[9]Quit the Program
+3
+Select a Shape to set the dimensions for between 1-10
+1
+Enter a value to set the radius of the circle
+2
+The radius for the object 0 was set.
+[1]Create a Circle or Rectangle Object
+[2]Set the Origin Point for a Created Object
+[3]Set the Dimensions for any object
+[4]Display the Current State of the Object
+[5]Move an Object a Specified Distance
+[6]Compute and Display the Distance Between Any Two Objects
+[7]Destroy any Object
+[8]List the Current State for all Objects in the Array
+[9]Quit the Program
+3
+Select a Shape to set the dimensions for between 1-10
+2
+Enter a value to set the length of the rectangle
+3
+Enter a value to set the width of the rectangle
+4
+
+The dimesnsions for the object 1 were set.
+
+[1]Create a Circle or Rectangle Object
+[2]Set the Origin Point for a Created Object
+[3]Set the Dimensions for any object
+[4]Display the Current State of the Object
+[5]Move an Object a Specified Distance
+[6]Compute and Display the Distance Between Any Two Objects
+[7]Destroy any Object
+[8]List the Current State for all Objects in the Array
+[9]Quit the Program
+3
+Select a Shape to set the dimensions for between 1-10
+3
+Enter a value to set the radius of the circle
+23
+The radius for the object 2 was set.
+[1]Create a Circle or Rectangle Object
+[2]Set the Origin Point for a Created Object
+[3]Set the Dimensions for any object
+[4]Display the Current State of the Object
+[5]Move an Object a Specified Distance
+[6]Compute and Display the Distance Between Any Two Objects
+[7]Destroy any Object
+[8]List the Current State for all Objects in the Array
+[9]Quit the Program
+
+4
+Choose a Shape between 1-10 to view its details
+2
+
+Origin: (3.00,3.00)
+Area: 0.00 square units
+Circumference: 0.00 units
+Length: 3.00 units,
+Width: 4.00 units
+
+[1]Create a Circle or Rectangle Object
+[2]Set the Origin Point for a Created Object
+[3]Set the Dimensions for any object
+[4]Display the Current State of the Object
+[5]Move an Object a Specified Distance
+[6]Compute and Display the Distance Between Any Two Objects
+[7]Destroy any Object
+[8]List the Current State for all Objects in the Array
+[9]Quit the Program
+5
+Select a Shape to move between 1-10
+2
+Enter value by which to move the xCoordinate of the origin
+43
+Enter value by which to move the yCoordinate of the origin
+55
+
+[1]Create a Circle or Rectangle Object
+[2]Set the Origin Point for a Created Object
+[3]Set the Dimensions for any object
+[4]Display the Current State of the Object
+[5]Move an Object a Specified Distance
+[6]Compute and Display the Distance Between Any Two Objects
+[7]Destroy any Object
+[8]List the Current State for all Objects in the Array
+[9]Quit the Program
+6
+Select the first Shape to calculate the distance for between 1-10
+2
+Select the second Shape to calculate the distance for between 1-10
+1
+The Distance between the two shapes is: 68.41 units
+
+[1]Create a Circle or Rectangle Object
+[2]Set the Origin Point for a Created Object
+[3]Set the Dimensions for any object
+[4]Display the Current State of the Object
+[5]Move an Object a Specified Distance
+[6]Compute and Display the Distance Between Any Two Objects
+[7]Destroy any Object
+[8]List the Current State for all Objects in the Array
+[9]Quit the Program
+7
+Select an object to delete from 1-10
+3
+Object 3 was deleted.
+[1]Create a Circle or Rectangle Object
+[2]Set the Origin Point for a Created Object
+[3]Set the Dimensions for any object
+[4]Display the Current State of the Object
+[5]Move an Object a Specified Distance
+[6]Compute and Display the Distance Between Any Two Objects
+[7]Destroy any Object
+[8]List the Current State for all Objects in the Array
+[9]Quit the Program
+8
+
+Current State for All objects is as follows:
+
+Origin: (4.00,4.00)
+Area: 0.00 square units
+Circumference: 0.00 units
+Radius: 2.00 units
+
+Origin: (46.00,58.00)
+Area: 0.00 square units
+Circumference: 0.00 units
+Length: 3.00 units,
+Width: 4.00 units
+
+[1]Create a Circle or Rectangle Object
+[2]Set the Origin Point for a Created Object
+[3]Set the Dimensions for any object
+[4]Display the Current State of the Object
+[5]Move an Object a Specified Distance
+[6]Compute and Display the Distance Between Any Two Objects
+[7]Destroy any Object
+[8]List the Current State for all Objects in the Array
+[9]Quit the Program
+9
+Exiting Program...
